@@ -44,6 +44,10 @@ html{
     border-radius: 2rem;
     
 }
+#navbar li a{
+    color: black;
+    text-decoration: none;
+}
 #navbar li:hover{
     background-color: whitesmoke;
     cursor: pointer;
