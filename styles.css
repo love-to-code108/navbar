@@ -48,10 +48,10 @@ html{
     color: black;
     text-decoration: none;
 }
-#navbar li:hover{
+/* #navbar li:hover{
     background-color: whitesmoke;
     cursor: pointer;
-}
+} */
 
 /* the text to check the navbar; */
 .he{
