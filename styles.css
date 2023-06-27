@@ -10,7 +10,7 @@ html{
 /* ============================================================= */
 /* the body height of 400vh and background color of yellow */
 #mainBody{
-    background-color: yellowgreen;
+    background-color: whitesmoke;
     height: 400vh;
     width: auto;
 }
@@ -34,9 +34,9 @@ html{
     align-items: center;
     height: fit-content;
     border-radius: 2rem;
-    background-color: rgba(255, 255, 255, 0.486);
+    background-color:rgba(45, 46, 48, 0.07);
     padding: 0.29rem 0.34rem;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(8px);
 }
 #navbar li{
     padding: 0.8rem 1.8rem;
@@ -50,3 +50,6 @@ html{
 }
 
 /* the text to check the navbar; */
+.he{
+    font-size: 4rem;
+}
