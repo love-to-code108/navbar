@@ -16,11 +16,13 @@
 /* the navbar css starts from here */
 #wrapper{
     height: 7.5rem;
-    width: 132rem;
+    width: 119rem;
     overflow-x: hidden;
+    display: flex;
+    justify-content: center;
 }
-#navbar ul{
+#navbar{
     overflow-x: hidden;
     list-style: none;
-    
+    display: flex; 
 }
