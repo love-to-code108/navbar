@@ -44,3 +44,9 @@ html{
     border-radius: 2rem;
     
 }
+#navbar li:hover{
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+/* the text to check the navbar; */
