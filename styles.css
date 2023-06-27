@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+
+}
+/* ============================================================= */
+/* the body height of 400vh and background color of yellow */
+#mainBody{
+    background-color: yellowgreen;
+    height: 400vh;
+    width: auto;
+}
+
+/* ============================================================== */
+/* the navbar css starts from here */
+#wrapper{
+    height: 7.5rem;
+    width: 132rem;
+    overflow-x: hidden;
+}
+#navbar ul{
+    overflow-x: hidden;
+    list-style: none;
+    
+}
