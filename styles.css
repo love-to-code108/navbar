@@ -51,5 +51,6 @@ html{
 
 /* the text to check the navbar; */
 .he{
+    overflow-x: hidden;
     font-size: 4rem;
 }
