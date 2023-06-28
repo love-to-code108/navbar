@@ -3,7 +3,7 @@
     console.log(currentUrl);
 
 
-    if (currentUrl == "https://love-to-code108.github.io/navbar/index.html") {
+    if (currentUrl == "https://love-to-code108.github.io/navbar/index.html" || currentUrl == "https://love-to-code108.github.io/navbar/" ) {
         const home = document.getElementsByClassName("whiteUrl");
         home[0].style.backgroundColor = "white";
         console.log(currentUrl);
