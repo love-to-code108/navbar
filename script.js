@@ -21,11 +21,11 @@
 
 const openUrl = (a)=>{
     if(a == 1){
-        window.open("http://127.0.0.1:5500/index.html","_self");
+        window.open("https://love-to-code108.github.io/navbar/","_self");
 
 
     }else if(a == 2){
-        window.open("http://127.0.0.1:5500/profiles.html","_self");
+        window.open("https://love-to-code108.github.io/navbar/profiles.html","_self");
 
 
     }else if(a == 3){
