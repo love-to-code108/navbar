@@ -21,7 +21,7 @@
 
 const openUrl = (a)=>{
     if(a == 1){
-        window.open("https://love-to-code108.github.io/navbar/","_self");
+        window.open("https://love-to-code108.github.io/navbar/index.html","_self");
 
 
     }else if(a == 2){
